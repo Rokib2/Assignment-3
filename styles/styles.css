@@ -1,0 +1,72 @@
+.nav-bar{
+    align-items: center;
+    display: flex;
+    gap: 20px;
+}
+.home-color{
+    color: red;
+}
+.single-quation{
+    color: red;
+}
+.header-nav{
+    align-items: center;
+}
+.section{
+    display: flex;
+    gap: 10px;
+}
+.background{
+    
+}
+.club{
+    text-align: center;
+}
+.parcent{
+    display: flex;
+    text-align: center;
+    margin-left: auto;
+    gap: 20px;
+    padding-left: 50px;
+}
+.png-2{
+    margin-top: 20px;
+    margin-left: 
+}
+.margin{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.hocy-pic{
+    display: flex;
+    gap: 20px;
+}
+.register{
+    background-color: #FF4240;
+    color: aliceblue;
+    padding: 15px;
+    border-radius: 10px;
+}
+.hocy-picc{
+    margin-top: 20px;
+}
+.new-products{
+    text-align: center;
+}
+.card{
+    display: flex;
+    gap: 10px;
+    margin-top: 5px;
+}
+.star{
+    display: flex;
+}
+.point{
+    margin-top: 0%;
+}
+.world-cup{
+    flex-direction: column;
+    margin-left: 0px;
+    margin-top:20px;
+
+}
