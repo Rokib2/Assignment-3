@@ -1,7 +1,7 @@
 .nav-bar{
-    align-items: center;
+    justify-content: space-between;
     display: flex;
-    gap: 20px;
+    padding: 20px;
 }
 .home-color{
     color: red;
@@ -11,10 +11,14 @@
 }
 .header-nav{
     align-items: center;
+    justify-content: space-between;
 }
 .section{
     display: flex;
+    font-size: 20px;
     gap: 10px;
+    
+    
 }
 .background{
     
@@ -69,4 +73,10 @@
     margin-left: 0px;
     margin-top:20px;
 
+}
+.ticket{
+    padding: 15px;
+    background-color: #FF4240;
+    color: aliceblue;
+    border-radius: 8px;
 }
