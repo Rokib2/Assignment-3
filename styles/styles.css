@@ -25,13 +25,16 @@
 }
 .club{
     text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .parcent{
     display: flex;
     text-align: center;
-    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
     gap: 20px;
-    padding-left: 50px;
+    
 }
 .png-2{
     margin-top: 20px;
@@ -52,20 +55,22 @@
     border-radius: 10px;
 }
 .hocy-picc{
+    align-items: center;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 .new-products{
     text-align: center;
 }
 .card{
-    display: flex;
+    display: inline-flex;
     gap: 10px;
-    margin-top: 5px;
 }
 .star{
     display: flex;
 }
 .point{
+    display: flex;
     margin-top: 0%;
 }
 .world-cup{
@@ -73,10 +78,4 @@
     margin-left: 0px;
     margin-top:20px;
 
-}
-.ticket{
-    padding: 15px;
-    background-color: #FF4240;
-    color: aliceblue;
-    border-radius: 8px;
 }
